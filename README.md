@@ -1,1 +1,1 @@
-# OFOS-online-food-ordering-system
+# OFOS (Online Food Ordering System) Using JSP
